@@ -6,7 +6,7 @@ In this project I developed a program that generates nonlinearly separable data.
   <tbody>
     <tr>
     <td><img src="https://github.com/nps6-uwf/nonlinear_svm/blob/main/figures/kernel_trick_hyperplane.PNG?raw=true"></img></td>
-    <td></td>
+    <td><img src="https://github.com/nps6-uwf/nonlinear_svm/blob/main/figures/kernel_trick_hyperplane_side%20profile.PNG?raw=true"></img></td>
     </tr>
     </tbody>
   </table>
